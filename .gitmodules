@@ -1,0 +1,6 @@
+[submodule "FRONT"]
+	path = FRONT
+	url = https://github.com/felipe-sant/FRONT-Maps.git
+[submodule "BACK"]
+	path = BACK
+	url = https://github.com/felipe-sant/BACK-Maps.git
